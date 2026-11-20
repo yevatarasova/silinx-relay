@@ -1,0 +1,3 @@
+# The relay's key, which the Deploy to Cloudflare button asks for (#4574): a long random key, 24 characters at least
+# (Silinx's Collaboration tab ▸ Set Up a Cloudflare Relay… makes one). Never commit the real one.
+RELAY_KEY=

@@ -1,0 +1,12 @@
+{
+  "name": "silinx-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A relay of Silinx's shared projects (live sharing) on Cloudflare Workers and Durable Objects",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "deploy": "npx wrangler deploy",
+    "dev": "npx wrangler dev"
+  }
+}
